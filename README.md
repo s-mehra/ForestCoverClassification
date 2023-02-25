@@ -1,1 +1,1 @@
-# ForestCoverClassification
+# Forest Cover Classification
